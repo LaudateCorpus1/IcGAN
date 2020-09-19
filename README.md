@@ -122,7 +122,7 @@ Download MNIST as a luarocks package: `luarocks install mnist`
 	```
 
 ## 2 Pre-trained CelebA model:
-CelebA model is available for download [here](https://mega.nz/#!nM5xRQLJ!HWyNgz9VNXjGFyQ2ujpVMPyQCTVHnzI64TpFfSfUqCI). The file includes the generator and both encoders (encoder Z and encoder Y).
+CelebA model is available for download [here](https://drive.google.com/file/d/1L5E4UnwBSihJ0kIVMu2khow-9gzroI6o/view?usp=sharing). The file includes the generator and both encoders (encoder Z and encoder Y).
 
 
 ## 3. Visualize the results
